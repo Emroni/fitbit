@@ -1,3 +1,4 @@
-<svg>
+<svg id="app">
     <text id="time" />
+    <text id="date" />
 </svg>
